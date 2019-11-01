@@ -1,0 +1,41 @@
+.triangle{
+  width:400px;
+  float: left;
+}
+.Textfields{
+  position:absolute;
+  width: 400px;
+  float: left;
+  margin-left: 900px;
+  margin-top: 100px;
+
+}
+
+.triangle img{
+  width:650px;
+  height:650px;
+  clip-path: polygon(0 0, 0 100%, 100% 49%);
+}
+h3{
+    border-bottom: 5px solid green;
+    width: 80px;
+    line-height: 60px;
+}
+
+.logo{
+  margin-left: 1465px;
+  float: right;
+  position:absolute;
+
+}
+.logo img{
+  width: 400px;
+  height: 100px;
+  float: left;
+}
+.bottom {
+  position: absolute;
+  margin-left: 1565px;
+  margin-top: 750px;
+
+}
